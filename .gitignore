@@ -3,3 +3,5 @@ img/
 venv/
 *.csv
 __pycache__
+.pytest_*
+identify_best_functions.ipynb
